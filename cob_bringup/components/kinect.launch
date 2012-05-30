@@ -20,7 +20,7 @@
     <param name="depth_frame_id" value="/head_cam3d_link" />
     <param name="use_indices" value="false" />
     <param name="depth_registration" value="true" />
-    <param name="image_mode" value="2" />
+    <param name="image_mode" value="1" />
     <param name="depth_mode" value="2" />
     <param name="debayering" value="2" />
     <param name="depth_time_offset" value="0" />
